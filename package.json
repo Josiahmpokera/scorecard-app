@@ -25,7 +25,7 @@
     "cy:stub": "concurrently 'yarn cy:start' 'yarn cy:run --env networkMode=stub' --kill-others --success first"
   },
   "devDependencies": {
-    "@cypress/react": "^5.10.3",
+    "@cypress/react": "^5.12.1",
     "@cypress/webpack-dev-server": "^1.7.0",
     "@dhis2/cli-app-scripts": "^8.3.0",
     "@dhis2/cli-style": "^10.1.1",
