@@ -47,9 +47,9 @@
     "wait-on": "^6.0.0"
   },
   "dependencies": {
-    "@dhis2/app-runtime": "^3.2.5",
+    "@dhis2/app-runtime": "^3.2.7",
     "@dhis2/app-service-datastore": "^1.0.0-alpha.2",
-    "@dhis2/ui": "^7.7.4",
+    "@dhis2/ui": "^7.14.2",
     "@hisptz/react-ui": "^1.0.4",
     "@iapps/function-analytics": "^1.0.0-beta.23",
     "@iapps/period-utilities": "^1.0.0-beta.5",
@@ -72,7 +72,7 @@
     "react-js-loading-shimmer": "^1.0.10",
     "react-jsx-parser": "^1.28.4",
     "react-router-dom": "^5.2.0",
-    "react-to-print": "^2.14.0",
+    "react-to-print": "^2.14.4",
     "react-web-vitals": "^1.0.1",
     "recoil": "^0.5.2",
     "rxjs": "^7.4.0",
